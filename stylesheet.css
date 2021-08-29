@@ -40,19 +40,25 @@
     background-color: darkgray;
     border: black;
 }
-.se{
+/* .se{
     color: darkgreen;
     font-size: 40px;
-}
+    background-color: blue;
+} */
 .elem{
     font-size: 30px;
     color: black;
 }
-.cash{
+/* .cash{
     color: darkred;
     font-size: 40px;
-}
+} */
 .liu{
     font-size: 25px;
     color: black;
+}
+.elem2{
+    font: 25px;
+    color: black;
+    background-color: darkgray;
 }
